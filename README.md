@@ -5,4 +5,4 @@ In [MLPHY1 - Ising MC and NN.ipynb](https://github.com/JSKao/ML_Phys/blob/master
 
 Besides Ising model, lattice gauge theory is illustrated by Wegner model in [`MLPHY2 - Lattice Gauge.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY2%20-%20Lattice%20Gauge.ipynb). In this note, ground states of Wegner model are extracted and classified by Wilson line.
 
-Generative model is illustrated by the note in [`RBM-notes.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/RBM-notes.ipynb) that I wrote in Perimeter Institute's course.[Machine learning for many body physics](https://www.perimeterinstitute.ca/videos/psi-2017/2018-machine-learning-many-body-physics-lecture-10).
+Generative model is illustrated by Restricted Boltzmann Machine in the note [`RBM-notes.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/RBM-notes.ipynb) that I wrote in Perimeter Institute's course [Machine learning for many body physics](https://www.perimeterinstitute.ca/videos/psi-2017/2018-machine-learning-many-body-physics-lecture-10). Its practice on Ising model is given in [`MLPHY5- RBM.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY5-%20RBM.ipynb).
