@@ -11,3 +11,6 @@ Besides Ising model, lattice gauge theory is illustrated by Wegner model in [`ML
 Generative model is illustrated by Restricted Boltzmann Machine in the note [`RBM-notes.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/RBM-notes.ipynb) that I wrote in 10 to 12th lecture of [Machine Learning for Many Body Physics](https://www.perimeterinstitute.ca/videos/psi-2017/2018-machine-learning-many-body-physics-lecture-10). Its practice on Ising model is given by [`MLPHY5-RBM.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY5-%20RBM.ipynb).
 
 Unsupervised learning of clustering Ising configuration is given by [`MLPHY6-tSNE.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY6%20-%20tSNE.ipynb)
+
+[](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) is the ppt of the representation I gave in NCCU 10.25.2019
+[]() is the brief ppt of the representation I gave in NTU 01.17.2020
