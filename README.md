@@ -12,5 +12,6 @@ Generative model is illustrated by Restricted Boltzmann Machine in the note [`RB
 
 Unsupervised learning of clustering Ising configuration is given by [`MLPHY6-tSNE.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY6%20-%20tSNE.ipynb)
 
-[](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) is the ppt of the representation I gave in NCCU 10.25.2019
-[]() is the brief ppt of the representation I gave in NTU 01.17.2020
+[`Report20191025.pdf`](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) is the ppt of the representation I gave in NCCU 10.25.2019
+
+[`QST-VB.pdf`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) is the brief ppt of the representation I gave in NTU 01.17.2020
