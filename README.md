@@ -14,5 +14,5 @@ Unsupervised learning of clustering Ising configuration is given by [`MLPHY6-tSN
 
 A [`report`](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) on summary of ML was given on 2019.10.25 at a group meeting in NCCU.
 
-[`Proposal A`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) was given on 2020.01.17 at a joint meeting in NTU with [`Proposal B`] in preparation.
+[`Proposal A`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) was given on 2020.01.17 at a joint meeting in NTU with [`Proposal B`](https://github.com/JSKao/ML_Phys/blob/master/ProposalML.pdf) in preparation.
 
