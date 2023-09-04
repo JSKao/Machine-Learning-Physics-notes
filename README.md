@@ -1,4 +1,4 @@
-# Machine Learning courses with exercises
+# Machine Learning Phases of Matter and Generative Model
 [`DL_note.pdf`](https://github.com/JSKao/ML_Phys/blob/master/DL_note.pdf) is the note I wrote in the deep learning courses [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 The followings are notes and codes for the Machine Learning for Many Body Physics taught course by Perimeter Institute.
