@@ -14,5 +14,5 @@ Unsupervised learning of clustering Ising configuration is given by [`MLPHY6-tSN
 
 A [`report`](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) on summary of ML was given.
 
-Searching for physics inspired generative model in [`Proposal A`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) and learning strong interacting Hamiltonian in [`Proposal B`](https://github.com/JSKao/ML_Phys/blob/master/ProposalML.pdf) were in preparation.
+Searching for physics inspired generative model in [`Proposal A`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) and learning strong-interacting Hamiltonian in [`Proposal B`](https://github.com/JSKao/ML_Phys/blob/master/ProposalML.pdf) were in preparation.
 
