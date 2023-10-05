@@ -12,7 +12,7 @@ In [`RBM-notes.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/RBM-notes.ip
 
 In [`MLPHY6-tSNE.ipynb`](https://github.com/JSKao/ML_Phys/blob/master/MLPHY6%20-%20tSNE.ipynb), practice unsupervised learning of clustering Ising configurations.
 
-A [`report`](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) on summary of ML was given.
+In [`report`](https://github.com/JSKao/ML_Phys/blob/master/Report20191025.pdf) is a brief report on summary of machine learning and application to physics.
 
 In [`Proposal A`](https://github.com/JSKao/ML_Phys/blob/master/QST-VB.pdf) and [`Proposal B`](https://github.com/JSKao/ML_Phys/blob/master/ProposalML.pdf) are short proposals.
 
