@@ -1,7 +1,7 @@
 # Machine Learning Phases of Matter and Generative Model
-[`DL_note.pdf`](https://github.com/JSKao/ML_Phys/blob/master/DL_note.pdf) is the note for deep learning basics.
+[`DL_note.pdf`](https://github.com/JSKao/ML_Phys/blob/master/DL_note.pdf) is my note for deep learning basics.
 
-Notes and codes for the Machine Learning for Many Body Physics.
+Notes and codes for the Machine Learning for Many Body Physics:
 
 
 In [MLPHY1-Ising MC and NN.ipynb](https://github.com/JSKao/ML_Phys/blob/master/MLPHY1%20-%20Ising%20MC%20and%20NN.ipynb), Neural network is established from scratch. Markov chain Monte Carlo method is used to sample Ising configurations, 
